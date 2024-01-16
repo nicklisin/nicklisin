@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Web Developer
 -------------------
 
-* 🌍  I'm based in US
-* 🤝  I'm open to collaborating on Interesting projects
+* 🌍  Based in US
+* 🤝  Open to collaborating on Interesting projects
 
 ### Skills
 
